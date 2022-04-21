@@ -1,0 +1,7 @@
+Hostname: DiagnoCons
+RootPassword: diagnocons2022
+
+Usuario:diagnocons
+contraseña: DiagnoCons2022#;
+
+diagnocons2022

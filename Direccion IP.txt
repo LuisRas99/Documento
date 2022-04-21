@@ -1,0 +1,4 @@
+IP: 172.17.207.207
+Mascara de red: 255.255.255.0
+
+Puerta de enlace (Gateway): 172.17.207.1
