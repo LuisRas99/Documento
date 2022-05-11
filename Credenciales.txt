@@ -5,3 +5,8 @@ Usuario:diagnocons
 contraseña: DiagnoCons2022#;
 
 diagnocons2022
+
+base de datos
+*usuario:DiagnoCons
+*contraseña: diagnocons2022
+
