@@ -10,3 +10,8 @@ base de datos
 *usuario:DiagnoCons
 *contraseña: diagnocons2022
 
+Ingresar al manager
+Action: Login
+Username: diagnocons
+Secret: diagnocons2022
+
